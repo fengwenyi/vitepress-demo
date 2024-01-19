@@ -1,2 +1,1 @@
-# vitepress-demo
-VitePress Demo
+# VitePress Demo
